@@ -9,10 +9,11 @@ My Goals for HNGi8
 6. I plan on getting more comfortable to intermediate skills on Backend Development. 
 7. I plan to meet with people of like minds to create tech solutions to immediate problems we encounter. 
 8. I plan to achieve a more analytic mind and business approach mindset at the end of this internship.
-https://zuri.team
-Figma Link: https://www.youtube.com/watch?v=jk1T0CdLxwU
-Git Link: https://www.youtube.com/watch?v=SWYqp7iY_Tc
-Python Link: https://www.learnpython.org/en/Hello%2C_World%21
+
+ -  https://zuri.team
+ -  Figma Link: https://www.youtube.com/watch?v=jk1T0CdLxwU
+ -  Git Link: https://www.youtube.com/watch?v=SWYqp7iY_Tc
+ -  Python Link: https://www.learnpython.org/en/Hello%2C_World%21
 
 
 
